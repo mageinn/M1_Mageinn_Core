@@ -1,0 +1,1 @@
+# Mageinn_Core for Magento® 1
